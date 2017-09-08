@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="utf-8"?><DEFECTS><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>471</LINE>
+      <COLUMN>9</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>“a”的局部声明遮蔽了外部作用域中具有相同名称的声明。有关其他信息，请参见此前位于“295”行(“c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\源.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>286</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\</FILEPATH>
+        <FILENAME>源.cpp</FILENAME>
+        <LINE>295</LINE>
+        <COLUMN>9</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>471</LINE>
+      <COLUMN>12</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>“b”的局部声明遮蔽了外部作用域中具有相同名称的声明。有关其他信息，请参见此前位于“295”行(“c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\源.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>286</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\</FILEPATH>
+        <FILENAME>源.cpp</FILENAME>
+        <LINE>295</LINE>
+        <COLUMN>12</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT><DEFECT>
+    <SFA>
+      <FILEPATH>c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\</FILEPATH>
+      <FILENAME>源.cpp</FILENAME>
+      <LINE>565</LINE>
+      <COLUMN>11</COLUMN>
+    </SFA>
+    <DEFECTCODE>6246</DEFECTCODE>
+    <DESCRIPTION>“file”的局部声明遮蔽了外部作用域中具有相同名称的声明。有关其他信息，请参见此前位于“299”行(“c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\源.cpp”中)的声明。</DESCRIPTION>
+    <FUNCTION>main</FUNCTION>
+    <DECORATED>main</DECORATED>
+    <FUNCLINE>286</FUNCLINE>
+    <PATH>
+      <SFA>
+        <FILEPATH>c:\users\gxy1997nh\documents\visual studio 2017\projects\project1\project1\</FILEPATH>
+        <FILENAME>源.cpp</FILENAME>
+        <LINE>299</LINE>
+        <COLUMN>13</COLUMN>
+      </SFA>
+    </PATH>
+  </DEFECT></DEFECTS>
